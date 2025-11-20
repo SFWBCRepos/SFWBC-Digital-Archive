@@ -14,14 +14,15 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This digital collection exists to promote awareness of SFWBC and preserve historical documents related to the College. The goal is to eventually include the following:
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+- Valuable metadata
+- Historical documents
+- Photographs
+- Recordings
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+Original documents are housed on-site at the Southeastern Free Will Baptist College campus.
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+For more information about this collection, contact the Library Director at 919-365-7711 or email us at catherine.pendley@sfwbc.edu.
